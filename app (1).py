@@ -1,6 +1,6 @@
 """
-Author: @mashun - sugon
-email: mashun1@sugon.com
+Author: @mashun
+email: 870796594@qq.com
 date: 2024/09/13
 ref: https://github.com/0x3f3f3f3fun/DiffBIR-OpenXLab/blob/main/app.py
 """
